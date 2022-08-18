@@ -1,0 +1,16 @@
+{
+    "token_tds": "TDS9JyMyVmdlNnI6IiclZXZzJCLiYTN5E2bodmbvJHdiojIyV2c1Jye",
+    "isLogin": true,
+    "username": "tronghoa1237",
+    "password": "tronghoa123@",
+    "job_setting": {
+        "Like": {
+            "active": true,
+            "delay": 3
+        },
+        "follow": {
+            "active": true,
+            "delay": 4
+        }
+    }
+}
